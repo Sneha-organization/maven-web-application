@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.235.67.61:9000/</sonar.host.url>
+		<sonar.host.url>http://172.31.11.76:9000/</sonar.host.url>
                 <sonar.login>squ_ef16bbcf2aa6a7b424bba306b19747eb2c2663b1</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.155.243:8081/repository/hdfcbank-release/</url>
+	      <url>http://172.31.43.145:8081/repository/hdfcbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
